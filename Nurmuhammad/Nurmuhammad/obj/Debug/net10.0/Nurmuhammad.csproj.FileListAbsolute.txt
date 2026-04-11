@@ -1,0 +1,14 @@
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\bin\Debug\net10.0\Nurmuhammad.exe
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\bin\Debug\net10.0\Nurmuhammad.deps.json
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\bin\Debug\net10.0\Nurmuhammad.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\bin\Debug\net10.0\Nurmuhammad.dll
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\bin\Debug\net10.0\Nurmuhammad.pdb
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\Nurmuhammad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\Nurmuhammad.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\Nurmuhammad.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\Nurmuhammad.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\Nurmuhammad.dll
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\refint\Nurmuhammad.dll
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\Nurmuhammad.pdb
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\Nurmuhammad.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Nurmuhammad\Nurmuhammad\obj\Debug\net10.0\ref\Nurmuhammad.dll

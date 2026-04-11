@@ -1,0 +1,14 @@
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\bin\Debug\net10.0\Osimkhon.exe
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\bin\Debug\net10.0\Osimkhon.deps.json
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\bin\Debug\net10.0\Osimkhon.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\bin\Debug\net10.0\Osimkhon.dll
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\bin\Debug\net10.0\Osimkhon.pdb
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\Osimkhon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\Osimkhon.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\Osimkhon.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\Osimkhon.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\Osimkhon.dll
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\refint\Osimkhon.dll
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\Osimkhon.pdb
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\Osimkhon.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Osimkhon\Osimkhon\obj\Debug\net10.0\ref\Osimkhon.dll

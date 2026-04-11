@@ -1,0 +1,14 @@
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\bin\Debug\net10.0\Hasanjon.exe
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\bin\Debug\net10.0\Hasanjon.deps.json
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\bin\Debug\net10.0\Hasanjon.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\bin\Debug\net10.0\Hasanjon.dll
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\bin\Debug\net10.0\Hasanjon.pdb
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\Hasanjon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\Hasanjon.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\Hasanjon.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\Hasanjon.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\Hasanjon.dll
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\refint\Hasanjon.dll
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\Hasanjon.pdb
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\Hasanjon.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Hasanjon\Hasanjon\obj\Debug\net10.0\ref\Hasanjon.dll

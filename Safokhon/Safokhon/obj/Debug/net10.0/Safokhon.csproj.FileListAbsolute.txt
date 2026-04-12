@@ -1,0 +1,14 @@
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\bin\Debug\net10.0\Safokhon.exe
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\bin\Debug\net10.0\Safokhon.deps.json
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\bin\Debug\net10.0\Safokhon.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\bin\Debug\net10.0\Safokhon.dll
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\bin\Debug\net10.0\Safokhon.pdb
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\Safokhon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\Safokhon.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\Safokhon.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\Safokhon.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\Safokhon.dll
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\refint\Safokhon.dll
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\Safokhon.pdb
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\Safokhon.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Safokhon\Safokhon\obj\Debug\net10.0\ref\Safokhon.dll

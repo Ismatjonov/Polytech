@@ -1,0 +1,14 @@
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\bin\Debug\net10.0\Khusravkhon.exe
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\bin\Debug\net10.0\Khusravkhon.deps.json
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\bin\Debug\net10.0\Khusravkhon.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\bin\Debug\net10.0\Khusravkhon.dll
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\bin\Debug\net10.0\Khusravkhon.pdb
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\Khusravkhon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\Khusravkhon.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\Khusravkhon.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\Khusravkhon.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\Khusravkhon.dll
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\refint\Khusravkhon.dll
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\Khusravkhon.pdb
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\Khusravkhon.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Khusravkhon\Khusravkhon\obj\Debug\net10.0\ref\Khusravkhon.dll

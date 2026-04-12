@@ -1,0 +1,14 @@
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\bin\Debug\net10.0\Sharifjon.exe
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\bin\Debug\net10.0\Sharifjon.deps.json
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\bin\Debug\net10.0\Sharifjon.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\bin\Debug\net10.0\Sharifjon.dll
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\bin\Debug\net10.0\Sharifjon.pdb
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\Sharifjon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\Sharifjon.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\Sharifjon.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\Sharifjon.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\Sharifjon.dll
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\refint\Sharifjon.dll
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\Sharifjon.pdb
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\Sharifjon.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Sharifjon\Sharifjon\obj\Debug\net10.0\ref\Sharifjon.dll

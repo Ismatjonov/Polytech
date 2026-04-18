@@ -1,0 +1,15 @@
+C:\Users\HOME\RiderProjects\Polytech\Operator\bin\Debug\net10.0\Operator.exe
+C:\Users\HOME\RiderProjects\Polytech\Operator\bin\Debug\net10.0\Operator.deps.json
+C:\Users\HOME\RiderProjects\Polytech\Operator\bin\Debug\net10.0\Operator.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Polytech\Operator\bin\Debug\net10.0\Operator.dll
+C:\Users\HOME\RiderProjects\Polytech\Operator\bin\Debug\net10.0\Operator.pdb
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\Operator.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\Operator.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\Operator.sourcelink.json
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\Operator.dll
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\refint\Operator.dll
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\Operator.pdb
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\Operator.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Polytech\Operator\obj\Debug\net10.0\ref\Operator.dll

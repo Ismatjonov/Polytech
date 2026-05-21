@@ -1,0 +1,14 @@
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\bin\Debug\net10.0\Olymp2.exe
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\bin\Debug\net10.0\Olymp2.deps.json
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\bin\Debug\net10.0\Olymp2.runtimeconfig.json
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\bin\Debug\net10.0\Olymp2.dll
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\bin\Debug\net10.0\Olymp2.pdb
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\Olymp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\Olymp2.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\Olymp2.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\Olymp2.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\Olymp2.dll
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\refint\Olymp2.dll
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\Olymp2.pdb
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\Olymp2.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\Olympiada\Olymp2\obj\Debug\net10.0\ref\Olymp2.dll
